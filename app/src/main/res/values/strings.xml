@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HANOI_TOWER</string>
+    <string name="click_me">Click me!</string>
+    <string name="hard">Hard</string>
+</resources>
